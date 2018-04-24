@@ -1,4 +1,4 @@
-**stand-alone QNX Neutrino program to measure the distance between the rear bumper of  
+/**stand-alone QNX Neutrino program to measure the distance between the rear bumper of  
  * your car and any objects behind the vehicle while parking. 
 Authors= Bhavan Kumar Vasu  
  */ 
